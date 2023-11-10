@@ -7,7 +7,7 @@ const about = {
   name: 'Bakare Adewale',
   role: 'Front End Engineer',
   description:
-    "Hy there!!\nI'm Adewale Bakare, a Full-stack Developer. I am passionate about my work because I believe that competence builds confidence. This motivates me always to strive for excellence in all. \n I play video games in my free time, funny enough this helps me shape the way I tackle problems in real life. \n Life is like a video-game, you need to learn how to play so you can win.",
+    "Hy there!!\nI'm Adewale Bakare, a FrontEnd Engineer. I am passionate about my work because I believe that competence builds confidence. This motivates me always to strive for excellence in all. \n I play video games in my free time, funny enough this helps me shape the way I tackle problems in real life. \n Life is like a video-game, you need to learn how to play so you can win.",
   resume:
     'https://drive.google.com/open?id=1DgTylioeeCeA7YCknKYcRc55jjdY_TSQ&usp=drive_fs',
   social: {
